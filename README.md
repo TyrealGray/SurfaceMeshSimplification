@@ -1,6 +1,6 @@
-# SurfacMeshSimplification
+# SurfaceMeshSimplification
 Triangulated Surface Mesh Simplification Using CGAL To Export File Easily
-![screenshot](https://raw.githubusercontent.com/TyrealGray/SurfacMeshSimplification/master/bin/SMS.jpg)
+![screenshot](https://raw.githubusercontent.com/TyrealGray/SurfaceMeshSimplification/master/bin/SMS.jpg)
 ##How to use
 ```
 // create .bat file and type cmd line like
