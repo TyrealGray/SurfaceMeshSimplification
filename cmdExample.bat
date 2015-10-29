@@ -1,0 +1,1 @@
+MeshSimplification.exe te.obj teout.obj 0.3
