@@ -1,5 +1,5 @@
 # SurfaceMeshSimplification
-Triangulated Surface Mesh Simplification Using CGAL To Export File Easily
+Triangulated Surface Mesh Simplification Using CGAL To Export File Easily**(Windows platfrom only)**
 ![screenshot](https://raw.githubusercontent.com/TyrealGray/SurfaceMeshSimplification/master/bin/SMS.jpg)
 ##How to use
 ```
